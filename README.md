@@ -38,7 +38,7 @@ Some of the projects I have worked on:
 ## Contact
 
 Email:  
-(aleksandar email ovdje)
+aleksandarsiljegovic13@gmail.com
 
 GitHub:  
 https://github.com/AleksS13
