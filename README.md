@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Aleksandar Šiljegović
 
-<!--
-**AleksS13/AleksS13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Engineer focused on building practical software projects and continuously improving through real development work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+
+You can view my portfolio website here:
+
+https://alekss13.github.io/portfolio
+
+---
+
+## Projects
+
+Some of the projects I have worked on:
+
+- **TaskFlow** – task and project management application
+- **Ispovijesti** – anonymous confessions platform with moderation features
+- **Travel Maps** – interactive travel location map
+
+---
+
+## Technologies
+
+- JavaScript
+- React
+- Node.js
+- Express
+- FastAPI
+- PostgreSQL
+- MySQL
+- Git
+
+---
+
+## Contact
+
+Email:  
+(aleksandar email ovdje)
+
+GitHub:  
+https://github.com/AleksS13
